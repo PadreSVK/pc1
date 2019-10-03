@@ -1,4 +1,4 @@
-# Podporné študijne materálny k predmetu PC1
+# Podporné študijne materiálny k predmetu PC1
 
 ## Version control system GIT
 * [git book](https://www.git-scm.com/book/en/v2)
