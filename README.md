@@ -7,13 +7,15 @@
 
 ## Hosting pre git repozitáre a projekty
 
-### Azure DevOps guidelines
+### Microsoft for Students & Azure DevOps
 
 * [5-minute quickstarts](https://docs.microsoft.com/en-us/azure/devops/user-guide/?view=azure-devops)
 * [git v AzureDevOps](https://docs.microsoft.com/en-us/azure/devops/user-guide/code-with-git?view=azure-devops)
+* [Microsoft Learn](https://docs.microsoft.com/cs-cz/learn/)
 
 ### GitHub
 * [guidelines](https://guides.github.com/)
+* [Education Pack](https://education.github.com/pack/offers)
 
 ## Visual Studio
 
