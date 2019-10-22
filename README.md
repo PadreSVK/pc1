@@ -21,6 +21,7 @@
 
 * [docs](https://docs.microsoft.com/en-us/visualstudio/?view=vs-2019)
 * [C++ in VS](https://docs.microsoft.com/en-us/cpp/get-started/tutorial-console-cpp?view=vs-2019)
+* [Git in VS](https://www.youtube.com/watch?v=jUiuIAZt6Dw&app=desktop)
 
 
 ## Google
