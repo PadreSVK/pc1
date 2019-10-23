@@ -23,6 +23,10 @@
 * [C++ in VS](https://docs.microsoft.com/en-us/cpp/get-started/tutorial-console-cpp?view=vs-2019)
 * [Git in VS](https://www.youtube.com/watch?v=jUiuIAZt6Dw&app=desktop)
 
+## C tutorials
+* [C Arrays](https://www.programiz.com/c-programming/c-arrays), [Multidimensional arrays](https://www.programiz.com/c-programming/c-multi-dimensional-arrays)
+* [C online compiler](https://www.tutorialspoint.com/compile_c_online.php)
+* [C intro](https://www.tutorialspoint.com/cprogramming/c_overview.htm)
 
 ## Google
 
