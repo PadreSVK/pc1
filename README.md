@@ -1,4 +1,3 @@
-# Podporné študijne materiálny k predmetu PC1
 
 ## Version control system GIT
 
@@ -30,4 +29,5 @@
 
 ## Google
 
+* [how google works](https://www.google.com/search/howsearchworks/)
 * [how to google](https://dev.to/lauragift21/the-art-of-googling-4c04)
