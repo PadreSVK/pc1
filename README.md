@@ -31,3 +31,4 @@
 
 * [how google works](https://www.google.com/search/howsearchworks/)
 * [how to google](https://dev.to/lauragift21/the-art-of-googling-4c04)
+* [how to google 2](https://www.dailyinfographic.com/the-power-of-google-infographic)
