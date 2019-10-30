@@ -23,10 +23,13 @@
 * [Git in VS](https://www.youtube.com/watch?v=jUiuIAZt6Dw&app=desktop)
 
 ## C tutorials
-* [C Arrays](https://www.programiz.com/c-programming/c-arrays), [Multidimensional arrays](https://www.programiz.com/c-programming/c-multi-dimensional-arrays)
-* [C online compiler](https://www.tutorialspoint.com/compile_c_online.php)
-* [C intro](https://www.tutorialspoint.com/cprogramming/c_overview.htm)
-* [C string](https://www.tutorialspoint.com/cprogramming/c_strings.htm)
+* [Arrays](https://www.programiz.com/c-programming/c-arrays), [Multidimensional arrays](https://www.programiz.com/c-programming/c-multi-dimensional-arrays)
+* [online compiler](https://www.tutorialspoint.com/compile_c_online.php)
+* [intro](https://www.tutorialspoint.com/cprogramming/c_overview.htm)
+* [string](https://www.tutorialspoint.com/cprogramming/c_strings.htm)
+* [string 2](https://www.programiz.com/c-programming/c-strings)
+* [isalpha](https://www.programiz.com/c-programming/library-function/ctype.h/isalpha)
+* [isdigit](https://www.programiz.com/c-programming/library-function/ctype.h/isdigit)
 
 ## Google
 
