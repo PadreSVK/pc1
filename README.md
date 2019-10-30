@@ -26,6 +26,7 @@
 * [C Arrays](https://www.programiz.com/c-programming/c-arrays), [Multidimensional arrays](https://www.programiz.com/c-programming/c-multi-dimensional-arrays)
 * [C online compiler](https://www.tutorialspoint.com/compile_c_online.php)
 * [C intro](https://www.tutorialspoint.com/cprogramming/c_overview.htm)
+* [C string](https://www.tutorialspoint.com/cprogramming/c_strings.htm)
 
 ## Google
 
