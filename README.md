@@ -1,5 +1,6 @@
 # Podporné študijne materiálny k predmetu PC1
 
+>Pre spustenie projektov je potrebné mať nainštalované platform sdk **Visual Studio 2019, prípadne si retargetovať projeky [docs](https://docs.microsoft.com/en-us/cpp/build/how-to-modify-the-target-framework-and-platform-toolset?view=vs-2019)**
 ## Version control system GIT
 
 * [git book](https://www.git-scm.com/book/en/v2)
@@ -26,3 +27,4 @@
 ## Google
 
 * [how to google](https://dev.to/lauragift21/the-art-of-googling-4c04)
+
