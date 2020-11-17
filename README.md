@@ -17,6 +17,11 @@
 * [isalpha](https://www.programiz.com/c-programming/library-function/ctype.h/isalpha)
 * [isdigit](https://www.programiz.com/c-programming/library-function/ctype.h/isdigit)
 
+### books
+
+* [Free C books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c)
+* [Free C++ resources](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c-1)
+
 ## Google
 
 * [how google works](https://www.google.com/search/howsearchworks/)
